@@ -1,2 +1,8 @@
 /target
 Cargo.lock
+.idea
+.DS_Store
+
+# Test CAs
+testkit/CAs/
+testkit/CustomCAs/
